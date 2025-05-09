@@ -11,7 +11,9 @@ This work adds a sense of 3D to a static painting *The Artist’s Garden at Vét
 ## Part 2: Coding Technique Exploration
 
 **Orbit Control**
+
 ![screenshot of Orbit Control](readmeImages/Orbit%20Control.gif)
-![Example code of Orbit Control](https://p5js.org/examples/3d-orbit-control/)
+
+[Example code of Orbit Control](https://p5js.org/examples/3d-orbit-control/)
 
 The *Orbit Control* function in p5.js enables interactive 3D navigation using mouse or touch inputs, allowing users to rotate, pan, and zoom within a 3D scene. This interactivity is crucial for replicating the dynamic spatial transformations seen in the Instagram reel. By integrating *Orbit Control*, I can create an immersive experience where users can explore the artwork from multiple perspectives.
